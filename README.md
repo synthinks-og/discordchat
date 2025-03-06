@@ -23,8 +23,8 @@ Bot Discord untuk auto-leveling dengan fitur pengiriman pesan otomatis yang mend
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/Aethereal-Collective/discord-auto-chat.git
-cd discord-auto-chat
+https://github.com/synthinks-og/discordchat.git
+cd discordchat
 ```
 
 2. Setup Virtual Environment
@@ -106,6 +106,3 @@ Script akan menangani berbagai jenis error:
    - Token tidak valid: Perbarui token di token.txt
    - Rate limit: Script akan otomatis menunggu
    - Timeout: Tunggu sampai timeout selesai
-# discordchat
-# discordchat
-# discordchat
